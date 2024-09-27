@@ -1,3 +1,5 @@
+package ru.kartashov;
+
 import ru.kartashov.model.Task;
 import ru.kartashov.parser.XMLParser;
 import ru.kartashov.storage.ToDoList;
